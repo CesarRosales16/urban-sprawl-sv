@@ -8,6 +8,8 @@ Original file is located at
 
 # Análisis de la expansión urbana en el AMSS usando técnicas de Teledetección y Machine Learning
 
+El Notebook, el código fuente generado, las fuentes de datos utilizadas, así como los resultados obtenidos y recursos adicionales se encuentran en el repositorio de Github: https://github.com/CesarRosales16/urban-sprawl-sv
+
 ## Preparación del ambiente de desarrollo
 
 Se instala GeoPandas ya que por el momento no forma parte de las dependencias incluidas por defecto en Google Colab.
